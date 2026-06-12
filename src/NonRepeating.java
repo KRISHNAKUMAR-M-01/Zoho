@@ -2,7 +2,7 @@ public class NonRepeating {
     public static void main(String[] args) {
         String str="abcdabdc";
         String str1="&&$$@";
-        String str2="Aa";
+        String str2="AaA";
         System.out.println(FindNonRepeating(str));
         System.out.println(FindNonRepeating(str1));
         System.out.println(FindNonRepeating(str2));
