@@ -2,7 +2,7 @@ package Array;
 
 public class Duplicate {
     public static void main(String[] args){
-        int[] studentIDs={91,100,74,2,34,34};
+        int[] studentIDs={91,100,74,2,2,34,34};
         System.out.println("Duplicate student ID: "+duplicate(studentIDs));
     }
     public static int duplicate(int[] arr){
