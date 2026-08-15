@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+The dog barked at the fox.
+The fox ran away quickly.
+Java is a great programming language.
+Java is used for backend development.

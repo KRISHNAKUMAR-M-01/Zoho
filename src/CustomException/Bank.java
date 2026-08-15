@@ -16,11 +16,11 @@ class BankAccount{
         System.out.println("Withdrawal successful, new balance:"+balance);
     }
 }
-public class Bank {
+public class  Bank {
     static void main(String[] args) {
         BankAccount account=new BankAccount();
         try{
-            account.withDraw(500);
+            account.withDraw(1500);
         }catch(InsufficientBalanceException e){
             System.out.println("Error: "+e.getMessage());
         }
